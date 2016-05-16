@@ -2,14 +2,15 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Patrick Picture
-datePublished: '2016-05-16T08:37:51.279Z'
-dateModified: '2016-05-16T08:33:41.619Z'
+datePublished: '2016-05-16T08:47:57.099Z'
+dateModified: '2016-05-16T08:47:05.769Z'
 author:
-  - {}
+  - name: ''
+    url: ''
 title: My First Post
 sourcePath: _posts/2016-05-01-my-first-post.md
 authors: []
