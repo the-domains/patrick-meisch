@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Patrick Meisch]]></title>
         <description><![CDATA[Patrick Meisch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/patrick-meisch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 09:37:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 09:46:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patrick-meisch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My First Post]]></title>
             <description><![CDATA[<article><h1>My First Post</h1><p>Patrick Picture</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6f8b14-26e3-4bcd-a4c5-1aa32fb257b5.jpg"></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/patrick-meisch/my-first-post/index.html</link>
             <guid isPermaLink="false">fc856635-fd2b-4d00-b47f-0d7eb140e934</guid>
-            <pubDate>Mon, 16 May 2016 09:37:10 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 09:46:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
