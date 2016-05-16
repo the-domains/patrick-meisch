@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: Patrick Picture
-datePublished: '2016-05-16T08:49:25.317Z'
-dateModified: '2016-05-16T08:49:14.072Z'
+datePublished: '2016-05-16T09:37:10.108Z'
+dateModified: '2016-05-16T08:50:31.176Z'
 author:
   - name: ''
     url: ''
@@ -20,7 +19,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: my-first-post/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc6f8b14-26e3-4bcd-a4c5-1aa32fb257b5.jpg)
